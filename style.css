@@ -1,0 +1,77 @@
+.grid{
+    margin:25px;
+    display:flex;
+    flex-wrap: wrap ;
+}
+.menu{
+    background-color: black;
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.dino{
+    background-color: #228B22;
+    padding : 25px;
+    margin : 25px;
+    display:flex;
+justify-content: center;
+font-family: monospace;
+}
+.gun{
+   background-color: #228B22;
+    padding : 25px;
+    margin : 25px;
+    display:flex;
+justify-content: center;
+font-family: monospace;
+}
+.parr{
+   background-color: #228B22;
+    padding : 25px;
+    margin : 25px;
+    display:flex;
+justify-content: center;
+font-family: monospace;
+}
+.cat{
+   background-color: #228B22;
+    padding : 25px;
+    margin : 25px;
+    display:flex;
+justify-content: center;
+font-family: monospace;
+}
+.panda{
+   background-color: #228B22;
+    padding : 25px;
+    margin : 25px;
+    display:flex;
+justify-content: center;
+font-family: monospace;
+}
+body{
+    background-color: #00FFFF;
+    margin : 0px;
+}
+.title{
+    background-color: #FFA500;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    padding: 15px;
+}
+.follow{
+    background-color: #CFB53B;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    padding: 15px;
+}
+.tree{
+    background-color: #228B22;
+     padding : 25px;
+     margin : 25px;
+     display:flex;
+ justify-content: center;
+ font-family: monospace;
+ }
